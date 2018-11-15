@@ -6,3 +6,11 @@ http://projectsplaza.com/product/free-support-system-in-laravel/
 
 # Screenshots
 ![User Dashboard](https://github.com/projectsplaza/support-system-project-in-laravel/blob/master/User%20Dashboard.png)
+
+![Login Page](https://github.com/projectsplaza/support-system-project-in-laravel/blob/master/Login.png)
+
+![Register Page](https://github.com/projectsplaza/support-system-project-in-laravel/blob/master/Register.png)
+
+![Ticket Reply Page](https://github.com/projectsplaza/support-system-project-in-laravel/blob/master/Ticket%20Reply.png)
+
+![Add Reply Page](https://github.com/projectsplaza/support-system-project-in-laravel/blob/master/Add%20Reply.png)
